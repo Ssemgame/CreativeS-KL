@@ -1,4 +1,5 @@
 # CreativeSŠKL
+<a href="https://github.com/Ssemgame/CreativeS-KL/archive/refs/heads/main.zip">Stáhnout modpack</a>
 Výtej v repositáři modpacku serveru CreativeSŠKL.
 Pokud se chceš připojit (asi chceš jinak bys sem do tohoto repositáře ani nechodil(a)), tak požádej admina
 o IP adresu a port. Na server můžou jen kamarádi admina a členové serveru.
